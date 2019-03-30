@@ -6,6 +6,9 @@
 + [Scala REPL](https://github.com/texmacs/TeXmacs.scala)
 + [GNU Guile 1.8.8 for GNU TeXmacs](https://github.com/texmacs/guile)
 
+## For Users
+[richi235's Bachelor Thesis on Link Aggregation Tunneling](https://github.com/richi235/bachelor-thesis-link-aggregation-tunneling)
+
 ## Blog & Forums & Chat Room
 + [GNU TeXmacs Gitter Chat Room](https://gitter.im/texmacs/Lobby)
 + [GNU TeXmacs知乎专栏(Chinese)](https://zhuanlan.zhihu.com/texmacs)
