@@ -7,7 +7,8 @@
 + [GNU Guile 1.8.8 for GNU TeXmacs](https://github.com/texmacs/guile)
 
 ## For Users
-[richi235's Bachelor Thesis on Link Aggregation Tunneling](https://github.com/richi235/bachelor-thesis-link-aggregation-tunneling)
++ [richi235's Bachelor Thesis on Link Aggregation Tunneling](https://github.com/richi235/bachelor-thesis-link-aggregation-tunneling)
++ [Algorithmic style for Texmacs](https://gitlab.com/syedahmad/algorithmacs)
 
 ## Blog & Forums & Chat Room
 + [GNU TeXmacs Gitter Chat Room](https://gitter.im/texmacs/Lobby)
