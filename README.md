@@ -6,6 +6,7 @@
 + [TeXmacs for Windows (build in MSys2/Mingw32 environment) ](https://github.com/slowphil/mingw-w64-texmacs)
 + [Scala REPL](https://github.com/texmacs/TeXmacs.scala)
 + [GNU Guile 1.8.8 for GNU TeXmacs](https://github.com/texmacs/guile)
++ [Hummus PDF Writer](https://github.com/galkahana/PDF-Writer)
 
 ## For Users
 + [richi235's Bachelor Thesis on Link Aggregation Tunneling](https://github.com/richi235/bachelor-thesis-link-aggregation-tunneling)
