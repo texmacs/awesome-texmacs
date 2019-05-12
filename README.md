@@ -3,6 +3,7 @@
 ## For Developers
 + [Lorem Ipsum generator](https://github.com/KarlHegbloom/texmacs-lorem-ipsum)
 + [TeXmacs Builder on Windows](https://github.com/slowphil/texmacs-win-builder)
++ [TeXmacs for Windows (build in MSys2/Mingw32 environment) ](https://github.com/slowphil/mingw-w64-texmacs)
 + [Scala REPL](https://github.com/texmacs/TeXmacs.scala)
 + [GNU Guile 1.8.8 for GNU TeXmacs](https://github.com/texmacs/guile)
 
