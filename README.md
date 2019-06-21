@@ -7,6 +7,7 @@
 + [Scala REPL](https://github.com/texmacs/TeXmacs.scala)
 + [GNU Guile 1.8.8 for GNU TeXmacs](https://github.com/texmacs/guile)
 + [Hummus PDF Writer](https://github.com/galkahana/PDF-Writer)
++ [A Jupyter cliet for GNU TeXmacs](https://github.com/mgubi/tm_jupyter)
 
 ## For Users
 + [richi235's Bachelor Thesis on Link Aggregation Tunneling](https://github.com/richi235/bachelor-thesis-link-aggregation-tunneling)
