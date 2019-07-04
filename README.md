@@ -12,7 +12,9 @@
 ## For Users
 + [richi235's Bachelor Thesis on Link Aggregation Tunneling](https://github.com/richi235/bachelor-thesis-link-aggregation-tunneling)
 + [Algorithmic style for Texmacs](https://gitlab.com/syedahmad/algorithmacs)
-
++ [GNU TeXmacs package for Chocolatey](https://chocolatey.org/packages/texmacs)
++ [GNU TeXmacs package for Archlinux](https://www.archlinux.org/packages/extra/x86_64/texmacs/)
++ [GNU TeXmacs cask for Homebrew](https://formulae.brew.sh/cask/texmacs)
 
 ## Blog & Forums & Chat Room
 + [GNU TeXmacs Forum](http://forum.texmacs.cn/)
