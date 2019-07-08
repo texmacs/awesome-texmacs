@@ -9,6 +9,7 @@
 + [Hummus PDF Writer](https://github.com/galkahana/PDF-Writer)
 + [A Jupyter cliet for GNU TeXmacs](https://github.com/mgubi/tm_jupyter)
 + [A Haskell plugin for GNU TeXmacs](https://yuktibhasa.wordpress.com/texmacs-plugin-for-haskell-sessions/)
++ [A Converter to Markdown](https://bitbucket.org/mdbenito/tm2md/src/master/)
 
 ## For Users
 + [richi235's Bachelor Thesis on Link Aggregation Tunneling](https://github.com/richi235/bachelor-thesis-link-aggregation-tunneling)
