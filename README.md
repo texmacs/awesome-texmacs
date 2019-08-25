@@ -8,7 +8,7 @@
 + [GNU Guile 1.8.8 for GNU TeXmacs](https://github.com/texmacs/guile)
 + [Hummus PDF Writer](https://github.com/galkahana/PDF-Writer)
 + [A Jupyter cliet for GNU TeXmacs](https://github.com/mgubi/tm_jupyter)
-+ [A Haskell plugin for GNU TeXmacs](https://yuktibhasa.wordpress.com/texmacs-plugin-for-haskell-sessions/)
++ [A Haskell plugin for GNU TeXmacs](https://github.com/BBratschiKirloskar/TeXmacsGhci)
 + [A Converter to Markdown](https://bitbucket.org/mdbenito/tm2md/src/master/)
 
 ## For Users
