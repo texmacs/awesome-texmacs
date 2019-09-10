@@ -10,6 +10,7 @@
 + [A Jupyter cliet for GNU TeXmacs](https://github.com/mgubi/tm_jupyter)
 + [A Haskell plugin for GNU TeXmacs](https://github.com/BBratschiKirloskar/TeXmacsGhci)
 + [A Converter to Markdown](https://bitbucket.org/mdbenito/tm2md/src/master/)
++ [XSI/CLIPS/COOL TeXmacs plugin](https://github.com/nilqed/xsiTM)
 
 ## For Users
 + [richi235's Bachelor Thesis on Link Aggregation Tunneling](https://github.com/richi235/bachelor-thesis-link-aggregation-tunneling)
